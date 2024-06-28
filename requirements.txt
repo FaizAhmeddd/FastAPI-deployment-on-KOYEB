@@ -8,4 +8,5 @@ python-dotenv
 pydantic
 pymongo
 opencv-python
+opencv-contrib-python
 
