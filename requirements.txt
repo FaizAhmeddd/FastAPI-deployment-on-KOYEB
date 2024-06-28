@@ -7,7 +7,5 @@ deepface==0.0.92
 python-dotenv
 pydantic
 pymongo
-opencv-python
-opencv-contrib-python
 opencv-python-headless
 
