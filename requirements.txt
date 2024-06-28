@@ -72,11 +72,11 @@ six==1.16.0
 sniffio==1.3.1
 soupsieve==2.5
 starlette==0.37.2
-tensorboard==2.16.2
-tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-intel==2.16.1
-tensorflow-io-gcs-filesystem==0.31.0
+tensorboard
+tensorboard-data-server
+tensorflow
+tensorflow-intel
+tensorflow-io-gcs-filesystem
 termcolor==2.4.0
 tf_keras==2.16.0
 tqdm==4.66.4
