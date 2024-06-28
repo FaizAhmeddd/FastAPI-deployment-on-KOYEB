@@ -9,4 +9,5 @@ pydantic
 pymongo
 opencv-python
 opencv-contrib-python
+opencv-python-headless
 
