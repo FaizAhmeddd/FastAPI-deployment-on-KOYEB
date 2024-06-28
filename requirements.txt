@@ -3,7 +3,7 @@ uvicorn
 numpy
 Pillow
 cmake
-deepface
+deepface==0.0.92
 python-dotenv
 pydantic
 pymongo
